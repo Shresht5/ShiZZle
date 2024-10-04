@@ -31,10 +31,10 @@ Welcome to **Shizzle**, a restaurant app that serves both fast food and healthy 
 npm install
 2. Start the server: node index.js
 
-###DataBase
+### DataBase
 
 1. Ensure MongoDB is running locally or on a server.
 2. Set your MongoDB connection string in your environment variables.
 
-##Made With ❤️
+## Made With ❤️
 - This project was created with heart, using the MERN stack to offer a delightful and seamless user experience.
